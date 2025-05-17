@@ -1,8 +1,12 @@
-<<<<<<< HEAD
+
 
 <p>Hello from local side <p>
-=======
+
 msg from central repository
 
 
+
 var username = "vinod";
+
+var x  = 20;
+
