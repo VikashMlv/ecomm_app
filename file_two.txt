@@ -2,5 +2,4 @@
 
 <p>Hello from local side <p>
 =======
-<p>Hello from central repository<p>
->>>>>>> 2da06a7fae03d77803d6f40e37d57ce9924562cc
+msg from central repository
