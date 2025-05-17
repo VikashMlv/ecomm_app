@@ -9,6 +9,7 @@ msg from central repository
 var username = "vinod";
 var password = "12345"
 var x  = 20;
+var cityName = "Bhopal"
 
 
 
